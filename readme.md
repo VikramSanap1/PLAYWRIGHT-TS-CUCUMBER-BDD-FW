@@ -92,13 +92,13 @@ hook we are closing our browser.
 
 1. Mutilple Cucumber Report:
 
-   ![image](https://github.com/build-vtest/Playwright-TS-Cucumber-BDD-Framework/assets/98380372/60806e7c-22fa-4e1c-b61d-84016234b836)
+   ![290415414-60806e7c-22fa-4e1c-b61d-84016234b836](https://github.com/VikramSanap1/PLAYWRIGHT-TS-CUCUMBER-BDD-FW/assets/117803096/acb4b3f7-8a1a-4fc4-8a94-3ec2434a464d)
 
-   ![image](https://github.com/build-vtest/Playwright-TS-Cucumber-BDD-Framework/assets/98380372/dd2645e7-5fb0-4d6e-ab75-90f7abb861e5)
+   ![290415414-60806e7c-22fa-4e1c-b61d-84016234b836](https://github.com/VikramSanap1/PLAYWRIGHT-TS-CUCUMBER-BDD-FW/assets/117803096/be8e1439-3d23-4dbf-86ee-54c8ff98e86f)
 
 2. Default Cucumber report:
 
-   ![image](https://github.com/build-vtest/Playwright-TS-Cucumber-BDD-Framework/assets/98380372/1854ac75-b83d-49bb-a95d-09be9223c9fa)
+   ![290415414-60806e7c-22fa-4e1c-b61d-84016234b836](https://github.com/VikramSanap1/PLAYWRIGHT-TS-CUCUMBER-BDD-FW/assets/117803096/38d7babf-b940-4535-9f60-31d7f115edbb)
 
 3. Logs
 4. Screenshots on failure
